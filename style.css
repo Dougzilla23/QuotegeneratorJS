@@ -1,0 +1,49 @@
+body{
+    background: yellowgreen;
+}
+
+.main {
+    padding: 10%;
+}
+h1{
+    font-weight:bold;
+    font-family:"Kaushan Script";
+    padding-bottom:40px;
+}
+
+p{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.quotes{
+    width:70%;
+    height:auto;
+    margin-right:auto;
+    margin-left:auto;
+    padding: 10px;
+    font-size: 25px;
+    border-color:black;
+    border-radius:30px;
+    background-color: aliceblue;
+}
+/* might need to edit this out */
+/* .quote{
+    font-family: 
+} */
+
+.author{
+    font-size: 10px;
+}
+.btn{
+    font-weight:bold;
+}
+#newQuote{
+    background-color: aquamarine;
+}
+#tweet{
+    background: #64c7dc;
+}
+
+
+/* footer */
